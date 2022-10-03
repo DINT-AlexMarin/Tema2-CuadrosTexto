@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32602.290
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tema2-CuadrosTexto", "Tema2-CuadrosTexto\Tema2-CuadrosTexto.csproj", "{0460463A-B41C-4787-984D-96237EE3E8FD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0460463A-B41C-4787-984D-96237EE3E8FD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0460463A-B41C-4787-984D-96237EE3E8FD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0460463A-B41C-4787-984D-96237EE3E8FD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0460463A-B41C-4787-984D-96237EE3E8FD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DD090072-9E9C-48C9-A523-05D5DC087641}
+	EndGlobalSection
+EndGlobal
