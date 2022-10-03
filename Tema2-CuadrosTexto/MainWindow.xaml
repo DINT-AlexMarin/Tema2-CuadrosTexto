@@ -5,7 +5,7 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:Tema2_CuadrosTexto"
         mc:Ignorable="d"
-        Title="MainWindow" Height="450" Width="800">
+        Title="MainWindow" Height="450" Width="800" Icon="assets/tag.ico">
     <Grid>
         <TextBox x:Name="nombre_Textbox" HorizontalAlignment="Left" Height="23" Margin="100,115,0,0" TextWrapping="Wrap" Text="TextBox" VerticalAlignment="Top" Width="120" TextChanged="TextBox_TextChanged" KeyDown="TextBox_KeyDown"/>
         <TextBox x:Name="apellido_Textbox" HorizontalAlignment="Left" Height="23" Margin="100,185,0,0" TextWrapping="Wrap" Text="TextBox" VerticalAlignment="Top" Width="120" KeyDown="TextBox_KeyDown"/>
